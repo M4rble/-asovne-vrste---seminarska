@@ -1,1 +1,1 @@
-# -asovne-vrste---seminarska
+# Seminarska naloga pri predmetu Časovne vrste
